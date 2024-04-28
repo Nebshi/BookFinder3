@@ -1,4 +1,4 @@
-import Book from "../model/Books.js";
+import Book from "../../model/Books.js";
 
 export default function (server, mongoose) {
 
