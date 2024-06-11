@@ -8,7 +8,7 @@ import apiRegister from "./apiRegister.js";
 const server = express()
 console.log("Server is starting...");
 // Bestämmer vilken port som servern ska lyssna på.
-const port = 3002
+const port = 3010
 
 /*
   Servern använder en middleware ( express.json() ) för att omvandla våra request till JSON.
